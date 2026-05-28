@@ -1,7 +1,7 @@
 # 🔍 Retail Profit Leak Detection BI System
 
 > Finding hidden revenue losses across 99,441 real orders in Brazilian e-commerce using PostgreSQL, Python, and Power BI.
-
+![Dashboard Preview](project3_dashboard_layout.png)
 ---
 
 ## 📌 What This Project Does
